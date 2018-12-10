@@ -32,42 +32,44 @@
       <div class="container">
                  <div class="row">
             <div id='soft' class="col-sm-4">
-              <img src="https://i.ibb.co/BKF5MBV/soft.png" alt="soft" border="0" style="width:100%" class="w3-hover-opacity">
-
-            </div>
+              <img src="https://i.ibb.co/FBKyMps/bold1.png" alt="bold places" border="0" style="width:100%" class="w3-hover-opacity">
+              <p>  </p>
+                   </div>
             <div id='bold' class="col-sm-4">
-              <img src="https://i.ibb.co/vL1CSQZ/bold.png" alt="bold" border="0" style="width:100%" class="w3-hover-opacity">
-            </div>
+              <img src="https://i.ibb.co/VSq4fN3/bold2.png" alt="bold style" border="0" style="width:100%" class="w3-hover-opacity">
+            <p>  </p>
+                   </div>
             <div id='classic' class="col-sm-4">
-              <img src="https://i.ibb.co/QvSSKv9/classic.png" alt="classic" style="width:100%" class="w3-hover-opacity">
-            </div>
+              <img src="https://i.ibb.co/Q8KDPyb/bold3.png" alt="bold words" border="0" style="width:100%" class="w3-hover-opacity">
+            <p>  </p>
+                   </div>
             <div class="w-100">
             </div>
             <div class="col-sm-4">
-              <img src="https://i.ibb.co/BKF5MBV/soft.png" alt="soft" border="0" style="width:100%" class="w3-hover-opacity">
-              <p>soft & simple</p>
+              <img src="https://i.ibb.co/6mj5YVY/bold5.png" alt="bold interiors" border="0" style="width:100%" class="w3-hover-opacity">
+              <p></p>
             </div>
             <div class="col-sm-4">
-              <img src="https://i.ibb.co/vL1CSQZ/bold.png" alt="bold" border="0" style="width:100%" class="w3-hover-opacity">
-              <p>bold & brilliant</p>
+              <img src="https://i.ibb.co/3fP0SrX/bold6.png" alt="bold eyes" border="0" style="width:100%" class="w3-hover-opacity">
+              <p></p>
             </div>
             <div class="col-sm-4">
-              <img src="https://i.ibb.co/QvSSKv9/classic.png" alt="classic" style="width:100%" class="w3-hover-opacity">
-              <p>classic & elegant</p>
+              <img src="https://i.ibb.co/sWZz4Cm/bold7.png" alt="bold looks" border="0" style="width:100%" class="w3-hover-opacity">
+              <p></p>
                    </div>
 
              <div class="w-100">
                 <div class="col-sm-4">
-              <img src="https://i.ibb.co/BKF5MBV/soft.png" alt="soft" border="0" style="width:100%" class="w3-hover-opacity">
-                  <p>soft & simple</p>
+              <img src="https://i.ibb.co/BjTGz2P/bold8.png" alt="bold clothes" border="0" style="width:100%" class="w3-hover-opacity">
+                  <p> </p>
             </div>
             <div class="col-sm-4">
-              <img src="https://i.ibb.co/vL1CSQZ/bold.png" alt="bold" border="0" style="width:100%" class="w3-hover-opacity">
-              <p>bold & brilliant</p>
+              <img src="https://i.ibb.co/Q98nnVz/bold9.png" alt="bold architecture" border="0" style="width:100%" class="w3-hover-opacity">
+              <p> </p>
             </div>
             <div class="col-sm-4">
-              <img src="https://i.ibb.co/QvSSKv9/classic.png" alt="classic" style="width:100%" class="w3-hover-opacity">
-              <p>classic & elegant</p>
+              <img src="https://i.ibb.co/ChmVVrf/bold4.png" alt="bold art" border="0" style="width:100%" class="w3-hover-opacity">
+              <p> </p>
 
             </div>
                    </div></center></body>
